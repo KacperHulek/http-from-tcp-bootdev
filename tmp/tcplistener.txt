@@ -1,4 +1,8 @@
 Request line:
 - Method: GET
-- Target: /prime/agen
+- Target: /use-neovim-btw
 - Version: 1.1
+Headers:
+- host: 192.168.100.173:42069
+- user-agent: curl/8.5.0
+- accept: */*
